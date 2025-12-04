@@ -1,2 +1,2 @@
-<title>CarpetaVscode<title>
+# CarpetaVscode
 Nuestro juego
